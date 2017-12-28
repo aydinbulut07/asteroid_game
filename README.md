@@ -20,4 +20,10 @@ the game ends.
 
 ## Technology
 
-I used JAVAFX for this application, that is all.
+I used JAVAFX for this application.
+
+### Author
+
+Aydın BULUT
+https://github.com/aydinbulut07
+https://www.linkedin.com/in/aydinbulut/
